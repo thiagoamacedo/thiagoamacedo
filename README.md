@@ -6,7 +6,7 @@ Welcome to my github page! 👋
 </p>
 
 - ⚡ I'm a developer with 20 years of experience currently living in Brazil. I have worked for many years with Delphi and i have been studying hard to work as a Full Stack Developer
-- 🌱 I'm currently learning ReactJS, React Native, TypeScript and NodeJS.
+- 🌱 I'm currently learning ReactJS, React Native, NodeJS and TypeScript.
 - 🔭 I'm working as a Developer and contributing to frontend and backend for building desktop/web/mobile applications.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-thiagoamacedodev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoamacedodev)
 
